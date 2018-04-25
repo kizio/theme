@@ -1,3 +1,7 @@
+# Kizio Theme Test Project
+
+This is intended to be a place where I can put a theme for my website.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kizio/theme/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
